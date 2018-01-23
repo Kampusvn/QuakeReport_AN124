@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--color red-->
+    <color name="colorRed">#F44336</color>
+    <!--color blue-->
+    <color name="colorBlue">#1976D2</color>
+    <!--color green-->
+    <color name="colorGreen">#4CAF50</color>
+
+    <!--define color for TextView-->
+    <!--This color for display location offset and date-->
+    <color name="textColorEarthquakeDetails">@android:color/darker_gray</color>
+
+    <!--This color for display location primary and time-->
+    <color name="textColorEarthquakePrimary">@android:color/black</color>
+
+</resources>

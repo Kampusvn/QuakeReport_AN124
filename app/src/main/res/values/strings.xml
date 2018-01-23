@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dữ liệu động đất</string>
+    <string name="temp">Kampus</string>
+    <string name="near_by">Near the</string>
+    <!--For display empty view-->
+    <string name="no_earthquakes">Không có trận động đất nào</string>
+    <!--For display no internet-->
+    <string name="no_connect_internet">Không có kết nối internet</string>
+
+    <!--for only setting-->
+    <string name="setting_menu_item">Cài đặt</string>
+    <string name="setting_title">Cài đặt</string>
+    <!--Preference-->
+    <string name="settings_min_magnitude_label">Cường độ tối thiểu</string>
+    <string name="settings_min_magnitude_key">min_magnitude</string>
+    <string name="settings_min_magnitude_default">4.5</string>
+
+
+    <!-- Strings For Order-By Preference -->
+    <string name="settings_order_by_label">Sắp xếp theo</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_magnitude_value</string>
+
+    <!-- Label for order-by magnitude option -->
+    <string name="settings_order_by_magnitude_label">Cường độ</string>
+    <string name="settings_order_by_magnitude_value" translatable="false">magnitude</string>
+
+    <!-- Label for order-by most recent option -->
+    <string name="settings_order_by_most_recent_label">Gần đây nhất</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">time</string>
+</resources>
